@@ -1,0 +1,4 @@
+Fixes issue 402 : "An access token must be used to query information about the current user" (<a href="http://code.google.com/p/facebook-actionscript-api/issues/detail?id=402#c0">link</a>)
+
+Fixes AIR 3.0 and above compatibility issue with JSON object.
+
